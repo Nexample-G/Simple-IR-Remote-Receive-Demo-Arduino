@@ -1,3 +1,9 @@
+/* 
+ * Simple IR Remote Receive Demo 
+ * PHP Tutorial - https://www.youtube.com/c/nexample
+ * GitHub - https://github.com/Nexample-G/Simple-IR-Remote-Receive-Demo-Arduino
+ * Dev: Nexample info.nexample@gmail.com
+ */
 #include <IRremote.h>
   IRrecv irrecv(A3);
   decode_results IR;
