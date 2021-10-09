@@ -1,6 +1,6 @@
 /* 
- * Simple IR Remote Receive Demo 
- * PHP Tutorial - https://www.youtube.com/c/nexample
+ * Simple IR Remote Receive Demo Arduino
+ * PHP Tutorial - https://youtu.be/y1AqSYsl62E
  * GitHub - https://github.com/Nexample-G/Simple-IR-Remote-Receive-Demo-Arduino
  * Dev: Nexample info.nexample@gmail.com
  */
